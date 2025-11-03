@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+%26+Systems+Developer;Transforming+data+into+strategic+insights+%F0%9F%93%8A;Designing+scalable+and+efficient+systems+%F0%9F%92%BB;Passionate+about+Python%2C+SQL%2C+and+APIs;Exploring+Machine+Learning+and+AI+%F0%9F%A4%96;Always+learning+new+technologies+%F0%9F%8C%B1;Let's+build+something+impactful+together+%F0%9F%9A%80;Feel+free+to+reach+out+for+collaboration+%F0%9F%92%AC" alt="Typing SVG" /></a>
 
+<!--
 <p align="center">
   <a href="https://github.com/JosFenix-20/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
-
+-->
 ---
 
 - 👨‍💻 As a systems engineer, I am constantly evolving professionally, exploring new technologies to strengthen my skills.
