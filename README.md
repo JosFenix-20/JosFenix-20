@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+%26+Systems+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Turning+data+into+insights+%F0%9F%93%8A;Building+scalable+systems+%F0%9F%92%BB;Loving+Python%2C+SQL+%26+APIs+%F0%9F%90%8D;Exploring+ML+%26+AI+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%8C%B1;Let%E2%80%99s+build+great+things+%F0%9F%9A%80;Reach+out+to+collaborate+%F0%9F%92%AC" alt="Typing SVG" /></a>" alt="Typing SVG" /></a>
+<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst+%26+Systems+Dev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Turning+data+into+insights+%F0%9F%93%8A;Building+scalable+systems+%F0%9F%92%BB;Loving+Python%2C+SQL+%26+APIs+%F0%9F%90%8D;Exploring+ML+%26+AI+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%8C%B1;Let%E2%80%99s+build+great+things+%F0%9F%9A%80;Reach+out+to+collaborate+%F0%9F%92%AC" alt="Typing SVG" /></a>
 
 <!--
 <p align="center">
