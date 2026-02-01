@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
+![https://github.com/JosFenix-20/mini-projects](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
   
  </div>
  
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
  
  ### 📈 Activity Graph
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)]((https://github.com/JosFenix-20/mini-projects))
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/JosFenix-20/mini-projects)
   
  <!-- 
 
