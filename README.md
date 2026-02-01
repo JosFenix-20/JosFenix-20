@@ -97,7 +97,7 @@ Here are some ideas to get you started:
  
  ### 📈 Activity Graph
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/JosFenix-20/mini-projects))
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)]((https://github.com/JosFenix-20/mini-projects))
   
  <!-- 
 
