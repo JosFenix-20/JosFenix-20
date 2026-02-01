@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  
  <div align=center>
   
-![https://github.com/JosFenix-20/mini-projects](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)
+![https://github.com/JosFenix-20](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)
   
  </div>
  
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
  
  ### 📈 Activity Graph
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosFenix-20&theme=react-dark)](https://github.com/JosFenix-20/mini-projects)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosFenix-20&theme=react-dark)](https://github.com/JosFenix-20)
   
  <!-- 
 
