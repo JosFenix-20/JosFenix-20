@@ -80,8 +80,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
 </p>
 ---
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
 
 
 
