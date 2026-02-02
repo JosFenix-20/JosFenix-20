@@ -73,8 +73,16 @@ Here are some ideas to get you started:
 ## 📊 Profile Statistics
  <div align=center>
 
-![https://github.com/JosFenix-20](https://github-readme-stats.vercel.app/api?username=JosFenix-20&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosFenix-20&theme=github_dark" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosFenix-20&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
  </div>
  
@@ -90,16 +98,7 @@ Here are some ideas to get you started:
 ---------------
  <div align="center">
     
-[![](http://github-readme-streak-stats.herokuapp.com?user=JosFenix-20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://github.com/JosFenix-20)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosFenix-20&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
-</p>
-
- 
- 
- 
+[![](http://github-readme-streak-stats.herokuapp.com?user=JosFenix-20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://github.com/JosFenix-20) 
  <br>
  </div>
 
@@ -108,6 +107,18 @@ Here are some ideas to get you started:
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosFenix-20&theme=react-dark)](https://github.com/JosFenix-20)
   
  <!-- 
+ ### 📊 My Repositories
+ <div>
+  <p align="center">
+	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
+
+
+ 
 
 ### 📊 Most Used Language
 
