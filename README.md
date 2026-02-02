@@ -91,6 +91,15 @@ Here are some ideas to get you started:
  <div align="center">
     
 [![](http://github-readme-streak-stats.herokuapp.com?user=JosFenix-20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://github.com/JosFenix-20)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosFenix-20&theme=github_dark" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+ 
+ 
+ 
  <br>
  </div>
 
