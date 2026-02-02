@@ -80,7 +80,12 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
 </p>
 ---
-
+<p align="center">
+<a href="https://github.com/JosFenix-20">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosFenix-20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosFenix-20&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
  </div>
