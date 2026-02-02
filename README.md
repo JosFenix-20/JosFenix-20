@@ -84,6 +84,8 @@ Here are some ideas to get you started:
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosFenix-20&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JosFenix-20&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+
  </div>
  
  ### 💳 Github Profile Summary Card
