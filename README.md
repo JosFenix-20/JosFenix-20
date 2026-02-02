@@ -92,7 +92,7 @@ Here are some ideas to get you started:
  <div align=center>
 [![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosFenix-20)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JosFenix-20&theme=material-palenight)](https://github.com/JosFenix-20)
- v>
+ </div>
 
 
  <div align=center>
