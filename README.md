@@ -82,17 +82,12 @@ Here are some ideas to get you started:
 ---------------
  <div align=center>
   
-[![https://github.com/JosFenix-20](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)]
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)]
   
  </div>
  
  ### ⏱ Streak Stats
-<!--
- <div align="center">
-    
-[![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosFenix-20)
- <br>
--->
+
 ---------------
  </div>
  <div align="center">
