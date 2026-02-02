@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 -->
 ## 📊 Profile Statistics
-
+---------------
  <div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 </div>
  
  ### 💳 Github Profile Summary Card
- 
+---------------
  <div align=center>
   
 ![https://github.com/JosFenix-20](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)
@@ -88,11 +88,12 @@ Here are some ideas to get you started:
  </div>
  
  ### ⏱ Streak Stats
+<!--
  <div align="center">
     
 [![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosFenix-20)
  <br>
-
+-->
 ---------------
  </div>
  <div align="center">
@@ -102,7 +103,7 @@ Here are some ideas to get you started:
  </div>
 
  ### 📈 Activity Graph
-
+---------------
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosFenix-20&theme=react-dark)](https://github.com/JosFenix-20)
   
  <!-- 
@@ -126,7 +127,7 @@ Here are some ideas to get you started:
 
 
 ### 🔗 links
-
+---------------
 <div align="center">
 <a href="josephdh27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="jos_delacruzh@outlook.com"><img alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
