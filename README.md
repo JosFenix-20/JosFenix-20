@@ -72,23 +72,11 @@ Here are some ideas to get you started:
 -->
 ## 📊 Profile Statistics
  <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosFenix-20&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosFenix-20&theme=github_dark" alt="Most Commit Language"/>
-</p>
----
-<p align="center">
-<a href="https://github.com/JosFenix-20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosFenix-20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosFenix-20&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
- </div>
+	<a href="https://github.com/JosFenix-20">
+  		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosFenix-20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosFenix-20&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
+  </div>
  
  ### 💳 Github Profile Summary Card
 ---------------
