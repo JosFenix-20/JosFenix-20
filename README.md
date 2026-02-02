@@ -90,6 +90,8 @@ Here are some ideas to get you started:
  ### ⏱ Streak Stats
  <div align="center">
     
+[![](https://github-readme-stats.vercel.app/api?username=JosFenix-20&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JosFenix-20)
+<br>
 [![](http://github-readme-streak-stats.herokuapp.com?user=JosFenix-20&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://github.com/JosFenix-20)
  <br>
  </div>
