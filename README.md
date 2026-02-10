@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ---------------
  <div align=center>
   
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosFenix-20&theme=github_dark)
   
  </div>
  
